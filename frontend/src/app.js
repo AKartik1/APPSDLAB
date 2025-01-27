@@ -2,7 +2,7 @@ import React from "react";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import HowToPlayPage from "./HowToPlayPage"; // Import your new page
 import Questions from "./Questions"; // Assuming you have this component
-import Navbar from "./Navbar"; // If you have a Navbar component
+
 
 function App() {
     return (
